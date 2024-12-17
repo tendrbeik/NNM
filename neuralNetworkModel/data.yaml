@@ -1,0 +1,8 @@
+path: F:/github/neuralNetworkModel/dataset/
+train: train/images
+val: valid/images
+test: test/images
+
+#class names
+names: 
+  0: 'good_place'
